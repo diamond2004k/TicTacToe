@@ -1,0 +1,15 @@
+# Node
+node_modules/
+npm-debug.log
+
+# React build
+build/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
